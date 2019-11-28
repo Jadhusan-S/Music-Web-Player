@@ -6,5 +6,8 @@ A Design for a web-player using HTML | CSS | SASS
 
 I have explained the codes in the file.
 
+THIS IS HOW IT LOOKS!
+Partner @keshan-spec
+
 
 ![Screenshot](./screenshot.jpg)
