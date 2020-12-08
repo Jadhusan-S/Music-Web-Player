@@ -6,7 +6,7 @@ A Frontend-Design For a Music-web-player  <br/>
   | `2. Css`        | 
   | `3. Sass`         |
 ## Guide  
-    I have explained in comments.
+    Just The Design.
     Listen Music Online.
 ## THIS IS HOW IT LOOKS!<br/>
 
